@@ -1,0 +1,9 @@
+<!-- DOCTYPE html -->
+<html>
+  <head>
+    <title>alert</title>
+  </head>
+  <body>
+    <script> document.alert("this is an alert";) </script>
+  </body>
+</html>
